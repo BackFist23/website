@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<title>My Blog</title>
+	<link href="https://fonts.googleapis.com/css?family=Handlee"
+	rel="stylesheet">
+	</head>
+	
+	<body>
+	
+	<div id="header"lass="section">
+	<img alt="" class=img-circle"
+src="https://code.sololearn.com/Icons/Avatars/0.jpg">
+    <p>Demonenko Ruslan</p>
+	</div>
+	<div class="section">
+	<h1><span>About Me</span></h1>
+	<p>
+	Hey!I'm <strong> Ruslan </strong>, and i want to tell something about me.I'm 17 y.o and I beginnig codder.
+ In future I will had paid job with a good team! I believe I will did this!I hope all my friend and family
+ was happy with me.I try to learn as much as possible,although it's not easy!
+ <strond> If u want to suggest or teach me something,contact with me! </strong>
+ my gmail: demonenko.ruslann@gmail.com
+    </p>
